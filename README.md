@@ -10,9 +10,9 @@ Esta API foi criada com intuito de simular operações em um banco digital. Padr
 
 ## Preparação e Instalação
 ```
-git clone projeto
+git clone http://link-clone.github
 
-cd projeto
+cd API-Banco-Digital
 
 npm install
 ```
