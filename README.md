@@ -90,3 +90,5 @@ Aqui estão as estruturas dos das requisições de Post e Put caso haja alguma d
 	"senha": "123456"
 }
 ```
+### Respostas sempre serão em JSON, como no exemplo abaixo:
+![image](https://github.com/Vidal-Gus/API-Banco-Digital/assets/101154222/da670535-6a3d-41cb-817b-eef3fbbdf543)
